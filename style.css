@@ -136,12 +136,12 @@ input[type="submit"]:hover {
 }
 .col-md-4 {
   width: 120px !important;
-  height: 100px !important;
+  height: 90px !important;
   padding: none !important;
 }
 .site {
   width: 120px;
-  height: 120px;
+  height: 75px;
   border-radius: 5px;
 }
 .site:hover {
@@ -185,7 +185,7 @@ input[type="submit"]:hover {
   position: absolute;
   bottom: 0;
   width: 100%;
-  padding: 10px;
+  padding: 8px;
   text-decoration: none;
   background-color: #f2f2f2;
   font-family: sans-serif;
@@ -201,7 +201,7 @@ input[type="submit"]:hover {
 }
 #right a {
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 20px;
   color: #222;
 }
 #left {
@@ -210,6 +210,6 @@ input[type="submit"]:hover {
 }
 #left a {
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 20px;
   color: #222;
 }
