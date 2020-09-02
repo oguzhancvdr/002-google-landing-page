@@ -128,7 +128,6 @@ input[type="submit"]:hover {
 }
 .bookmarks {
   width: 400px;
-  /* margin-top: 20px; */
   font-family: sans-serif;
   display: block;
   left: 50%;
@@ -137,6 +136,7 @@ input[type="submit"]:hover {
 }
 .col-md-4 {
   width: 120px !important;
+  height: 100px !important;
   padding: none !important;
 }
 .site {
@@ -182,7 +182,6 @@ input[type="submit"]:hover {
 }
 .footer {
   height: 100px;
-  margin-top: 330px;
   position: absolute;
   bottom: 0;
   width: 100%;
